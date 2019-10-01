@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://artision.github.io/city-tours",
   "dependencies": {
+    "node-sass": "^4.12.0",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "react-scripts": "3.1.2"
